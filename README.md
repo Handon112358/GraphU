@@ -25,7 +25,7 @@ torch-scatter == 2.0.7
 
 ##### 具体操作：
 
-进入https://data.pyg.org/whl/index.html网址中，寻找不排斥的安装版本，由于torch的版本为1.9.0，单击并进入torch-1.9.0+cu111：
+进入 https://data.pyg.org/whl/index.html 网址中，寻找不排斥的安装版本，由于torch的版本为1.9.0，单击并进入torch-1.9.0+cu111：
 torch_sparse-0.6.10-cp36-cp36m-linux_x86_64.whl
 torch_scatter-2.0.7-cp36-cp36m-linux_x86_64.whl（若系统为linux版本则保持不变，windows版本请选择后缀为-win_amd64.whl）
 
